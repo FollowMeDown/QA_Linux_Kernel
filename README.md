@@ -166,4 +166,4 @@ config.json for syz-maneger
 ```
 Then, run the syz-maneger with configure file.  
 `syz-manager -config config.json`  
-Then open your browser and enter 127.0.0.1：50000, there is a monitor of all test VM you run.  
+Then open your browser and enter 127.0.0.1:50000, there is a monitor of all test VM you run.  
